@@ -7,7 +7,7 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   role: "Full Stack Web Developer",
-  avatar: "/images/axel.jpg",
+  avatar: "/images/axel.png",
   location: "America/Mexico_City",
   languages: ["Spanish", "English"],
 };
